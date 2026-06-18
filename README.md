@@ -31,8 +31,9 @@ python backup.py
 
 ## Screenshots
 
-![Backup Automation Tool : Self](screenshots\Self.png)
-![Backup Automation Tool : Result](screenshots\Result.png)
+![Backup Automation Tool : Self](screenshots/Self.png)
+![Backup Automation Tool : Result](screenshots/Result.png)
+![Backup Automation Tool : Display Result](screenshots/Display_Result.png)
 
 ---
 
