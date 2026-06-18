@@ -9,7 +9,7 @@ A Python-based automation tool that creates compressed backups of folders.
 ## Features
 
 - Folder Backup
-- ZIO Compression
+- ZIP Compression
 - Timestamp-based Naming
 - Automatic Backup Directory
 - Backup Logs
