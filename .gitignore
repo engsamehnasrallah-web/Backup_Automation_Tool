@@ -4,3 +4,7 @@ __pycache__/
 
 Backups/
 *.zip
+
+TestData/
+
+backup.log
